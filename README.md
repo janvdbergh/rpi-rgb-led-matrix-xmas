@@ -1,2 +1,3 @@
 # rpi-rgb-led-matrix-xmas
-Python Christmas Scripts to show animations on led matrix
+
+Python scripts to show Christmas animations on a led matrix
