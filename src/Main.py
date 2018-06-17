@@ -20,7 +20,7 @@ def playAnimations(client):
 				client.sendCommand(Command.animation(animation.getName()))
 
 
-client = NetworkClient("localhost", 11236)
+client = NetworkClient("localhost", 1236)
 defineAnimations(client)
 playAnimations(client)
 
